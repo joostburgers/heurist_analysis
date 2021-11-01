@@ -1,0 +1,48 @@
+---
+title: "Heurist Analysis"
+author: "Johannes Burgers"
+date: "11/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(rjson)
+library(jsonlite)
+library(tidyverse)
+library(tidyjson)
+```
+
+
+```{r}
+result <- fromJSON(file = "data/Export_partition_literature_20211101192131.json")
+```
+
+```{r}
+dat <- jsonlite::fromJSON("data/Export_partition_literature_20211101192131.json", flatten = TRUE)[[1]]
+```
+
+
+
+
+```{r}
+data_frame <- as.data.frame(result)
+```
+
+```{r}
+purch_items <- results %>%
+  gather_array %>%                                     # stack the users 
+  spread_values(person = jstring("name")) %>%          # extract the user name
+  enter_object("purchases") %>% gather_array %>%       # stack the purchases
+  spread_values(purchase.date = jstring("date")) %>%   # extract the purchase date
+  enter_object("items") %>% gather_array %>%           # stack the items
+  spread_values(                                       # extract item name and price
+    item.name = jstring("name"),
+    item.price = jnumber("price")
+  ) %>%
+  select(person, purchase.date, item.name, item.price)
+```
+
