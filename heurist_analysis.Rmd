@@ -2,22 +2,24 @@
 title: "Heurist Analysis"
 author: "Johannes Burgers"
 date: "10/30/2021"
-output: html_document
-editor_options: 
-  chunk_output_type: console
+output: rmdformats::html_clean
+
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning=FALSE, error=FALSE)
 ```
 
 ```{r load_libraries}
 library(tidyverse)
 library(tidytext)
 library(ggthemes)
+library(rmdformats)
 ```
 
-#Creating the data table
+### Creating the data table
+
+This process involves stitching the tables back together with a series of `left_joins` and then cleaning up the result.
 
 ```{r get_event_present_data}
 events_present <- read_csv("data/rectype-59.csv")
@@ -71,7 +73,6 @@ authors <-
   read_csv("data/Export_partition_literature_t10_Author.csv")
 ```
 
-
 ```{r create_full_table}
 full_table <- all_events %>%
   left_join(characters) %>%
@@ -106,17 +107,17 @@ partition_narratives <- full_table %>%
   rename_with(~ gsub("\\(s\\)", "", .x))
 ```
 
-#Playing with the data
+# Playing with the data
 
-### Do women write more about women?
+### Does the gender of the author influence the gender of the characters?
 
-```{r gender_author_table}
-gender_authorship <- partition_narratives %>%
-  group_by(gender_author) %>%
-  filter(presentmentioned=="Present") %>% 
-  drop_na(gender) %>% 
-  count(gender) %>%
-  mutate(percent = round((n / sum(n) * 100), 2))
+```{r gender_author_table, echo=TRUE}
+gender_authorship <- partition_narratives %>% #all of the data
+  group_by(gender_author) %>% # Group by author
+  filter(presentmentioned=="Present") %>% #Exclude characters who are only mentioned
+  drop_na(gender) %>% #Drop empty gender fields
+  count(gender) %>% #Count gender by type
+  mutate(percent = round((n / sum(n) * 100), 2)) #Create percentage
   
 ```
 
