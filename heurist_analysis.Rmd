@@ -139,7 +139,7 @@ gender_authorship %>%
 
 ## What location has the most religious conflict?
 
-```{r religious_conflict_places}
+```{r religious_conflict_places, echo=TRUE}
 religion_places <-  partition_narratives %>%
   group_by(author_name) %>%
   mutate(location_religion = ifelse(str_detect(location_religion,"\\|")==TRUE, "Multi-faith", location_religion)) %>% 
@@ -167,7 +167,7 @@ religion_places %>%
 
 ## Where do people die?
 
-```{r mortality}
+```{r mortality, echo=TRUE}
 death_places <- partition_narratives %>% 
                 group_by(place_name) %>% 
                 count(vitality) %>% 
