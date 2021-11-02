@@ -1,0 +1,141 @@
+"Location H-ID","Primary place name","Alternative Name","Locality name","Location Country","Short description","Location (mappable)","Locational certainty",Geometry,"Administrative area"
+22,"Lucknow University",,,India,"Lucknow in UP","POINT(80.936033 26.863315)","1. High confidence",Point,"7 Metropolitan Area"
+27,Hadali,,,Pakistan,"Hadali, Punjab, Pakistan","POINT(72.192222 32.292222)","1. High confidence",Point,
+33,Rawalpindi,"Teli Mohalla RdWaris Khan Rawalpindi",,Pakistan,"Rawalpindi, Punjab","POINT(73.062762 33.616531)","1. High confidence",Point,
+36,"Mandi Bahauddin",,,Pakistan,"Mandi Bahauddin, Punjab","POINT(73.483129 32.574158)","1. High confidence",,
+119,"Mano Majra",,,India,"A fictional town on the border of India and Pakistan",,"2. Probable location",Area,"10 Village/Civic Ward"
+249,"Chatto Village",,,Pakistan,"The neighbouring village as mentioned in the novel is Rattoval which is more easily accessible and locatable on map.","POINT(73.48335 32.574375)","2. Probable location",,"8 Municipal Corporation / Municipality / City Council"
+281,"Rattoval Village",,,Pakistan,"Neighboring village to Chatto Village","POINT(75.67175 30.745563)","2. Probable location",Area,"8 Municipal Corporation / Municipality / City Council"
+865,Rajpura,,,India,,"POINT(76.590672 30.480929)","1. High confidence",Area,"6 Subdistrict (Tehsil / Mandal / Taluk)"
+870,"Masjid Sherwanikot",,,India,"Masjid in Kelon, Punjab","POINT(75.849481 30.52652)","1. High confidence",Point,
+871,"Harnam Singh Wala Village",,,India,,"POINT(75.234568 30.368765)","1. High confidence",Area,"10 Village/Civic Ward"
+872,"Raja Bazaar","Raja Bazar",,Pakistan,,"POINT(73.052763 33.614181)","1. High confidence",Area,
+873,Mirpur,,,Pakistan,,"POINT(73.742466 33.148331)","1. High confidence",Area,"7 Metropolitan Area"
+874,"Jama Masjid",,,India,"Not to be confused with the Jama Masjid in Delhi","POINT(75.854148 30.907997)","1. High confidence",,
+875,Khanpur,,,India,,"POINT(75.903597 30.799396)","1. High confidence",Area,
+879,"Imam Din Gali",,,India,,"POINT(72.664218 32.086592)","1. High confidence",Area,
+1015,terrace,,,Pakistan,"Laila's terrace",,"1. High confidence",,
+1065,"Shivala Bazaar",,,India,,"POINT(82.114869 26.737423)","1. High confidence",Point,"4 State"
+1295,"Cambridge University",,,UK,"A university area.","POINT(0.11452 52.204346)","1. High confidence",,
+1298,Mecca,Makkah,,"Saudi Arabia","Holy Place","POINT(39.82438 21.426568)","1. High confidence",Point,"4 State"
+1348,Lahore,,,Pakistan,,"POINT(74.314957 31.504215)","1. High confidence",Area,"7 Metropolitan Area"
+1350,Mumbai,Bombay,,India,,"POINT(72.8936 19.111434)","1. High confidence",Area,"7 Metropolitan Area"
+1353,"Madras Presidency",,,India,"I have marked the pre-partition madras state, not chennai.","POINT(79.387207 13.068777)","1. High confidence",,
+1453,Hasanpur,,,India,,"POINT(78.284626 28.723749)","1. High confidence",,
+1527,Muridpur,,,India,,"POINT(79.957745 26.33222)","1. High confidence",,
+1529,"Kutub Din",,,India,,"POINT(74.797373 34.083663)","1. High confidence",,
+1553,Kahuta,,,Pakistan,,"POINT(73.388664 33.589205)","1. High confidence",,
+1734,Home,Baradari,,India,"Laila is at home",,"1. High confidence",,
+1879,Ridge,,,India,,,"1. High confidence",,
+1881,"Railway Crossing",,,India,,,"1. High confidence",,
+2552,"Sakar Village",sukkur,,Pakistan,"Paroo is abducted to this village","POINT(73.542766 32.543265)","3. Conjectural",Point,"10 Village/Civic Ward"
+2580,"Bara Bazaar",,,India,"Bazaar in Tamas","POINT(88.354408 22.581703)","1. High confidence",Point,"7 Metropolitan Area"
+2608,"Bhimnagar Palace",,,India,"Sunlight in a Broken Column","POINT(86.961266 26.513774)","1. High confidence",Point,"3 Division"
+2609,Shimla,,,India,,"POINT(77.166424 31.096307)","1. High confidence",,
+2612,England,,,UK,,"POINT(-0.834961 52.362183)","1. High confidence",,
+2622,London,,,UK,,"POINT(-0.122223 51.506178)","1. High confidence",,
+2625,Kolkata,Calcutta,,India,,"POINT(88.37265 22.69512)","1. High confidence",,
+2686,"Ganj Mandi",,,Pakistan,,"POINT(73.052068 33.614914)","1. High confidence",,
+2790,"Lala -Musa",,,Pakistan,,,"1. High confidence",,
+2802,"Golra Sharif",,,Pakistan,,"POINT(72.977071 33.693923)","1. High confidence",,
+2973,"River Ravi",,,Pakistan,,,"1. High confidence",,
+2991,"Hindu Kush","Alexander Valley",,Pakistan,,"POINT(73.278809 36.897194)","2. Probable location",,
+2993,India,,,India,,"POINT(78.96288 20.593684)","1. High confidence",Area,
+3024,"Refugee encampment outside chattowal",,,India,,"POINT(75.683658 31.72678)","1. High confidence",Area,"10 Village/Civic Ward"
+3061,"Sadar Bazar",,,Pakistan,"within Rawalpindi","POINT(73.052902 33.596855)","1. High confidence",,
+3062,"Shivala Bazaar",,,India,,"POINT(82.114874 26.737428)","1. High confidence",,
+3063,"Shivala Road",,,India,,"POINT(82.114879 26.737433)","1. High confidence",,
+3064,"Saidpur Village",Sayedpur,,Pakistan,,"POINT(73.067837 33.742666)","1. High confidence",,
+3065,"Amirpur Village",,,India,,"POINT(77.792387 27.433908)","1. High confidence",,
+3066,Baradari,"Safed Baradari",,India,,"POINT(80.931956 26.852369)","1. High confidence",,
+3067,"Government House","Raj Bhavan",,India,"The current Raj Bhavan was then called the Government House.","POINT(80.946268 26.840887)","1. High confidence",,
+3068,Residency,,,India,,"POINT(80.926784 26.860658)","1. High confidence",,
+3069,"Gajju Matah","Gujjo Matah",,Pakistan,"a neighbourhood in Nishtar Tehsil of Lahore, Pakistan","POINT(74.366069 31.386248)","1. High confidence",,
+3070,Gujranwala,,,Pakistan,,"POINT(74.19445 32.187526)","1. High confidence",,
+3071,Jullunder,Jalandhar,,India,,"POINT(75.575981 31.32578)","1. High confidence",,
+3072,"Lucknow University",College,,India,,"POINT(80.936022 26.863319)","1. High confidence",,
+3075,Hostel,"Lucknow University",,India,,"POINT(80.936027 26.863314)","1. High confidence",,
+3108,Delhi,,,India,"Generic location for Delhi. Any place that is in or near Delhi but not precisely mappable can go here.","POINT(77.224701 28.650825)","1. High confidence",,
+3109,"Chatto Village: Neighborhood Market",,,Pakistan,,"POINT(73.483271 32.576111)","3. Conjectural",,
+3110,"Chatto Village: Field",,,Pakistan,,"POINT(73.48647 32.576798)","3. Conjectural",,
+3111,"Chatto Village: Well",,,Pakistan,"The well where Pooro goes. This location has no connection to reality.","POINT(73.48151 32.574085)","3. Conjectural",,
+3112,"Chatto Village: Pooro's Home",,,Pakistan,"The place where Pooro lives. This location has no connection to reality.","POINT(73.48151 32.574085)","3. Conjectural",,
+3114,"Sakar Village: Rashid's Home",sukkur,,Pakistan,"Paroo is abducted to this village","POINT(73.548589 32.544534)","3. Conjectural",Point,"10 Village/Civic Ward"
+3115,"Sakar Village: Rahima's Home",sukkur,,Pakistan,"Paroo is abducted to this village","POINT(73.544458 32.542291)","3. Conjectural",Point,"10 Village/Civic Ward"
+3116,"Sakar Village: Well",sukkur,,Pakistan,"Paroo is abducted to this village","POINT(73.544458 32.542291)","3. Conjectural",Point,"10 Village/Civic Ward"
+3117,"Sakkar: Neighbouring Village",,,Pakistan,,"POINT(73.554604 32.583235)","3. Conjectural",,
+3118,"Chatto Village: Refugee Camp",,,Pakistan,,"POINT(73.477822 32.53719)","3. Conjectural",,
+3119,"Kapoor Haveli",Kapoora,,Pakistan,,"POINT(71.571567 34.009132)","1. High confidence",,
+3157,Ludhiana,,,India,,"POINT(75.857276 30.900965)","1. High confidence",Point,"7 Metropolitan Area"
+3175,"Rawalpindi Train Station",,,Pakistan,,"POINT(73.048124 33.603812)","1. High confidence",Point,"7 Metropolitan Area"
+3357,Amritsar,,,India,,,"1. High confidence",,
+3363,"Mughalpura, Lahore",,,Pakistan,,,"1. High confidence",,
+3418,Amritsar,,,India,"a city in the northwestern Indian state of Punjab, 28 kilometers from the border with Pakistan. At the center of its walled old town, the gilded Golden Temple (Harmandir Sahib) is the holiest gurdwara (religious complex) of the Sikh religion. It’s at the end of a causeway, surrounded by the sacred Amrit Sarovar tank (lake),","POINT(74.872264 31.633979)","1. High confidence",,
+3420,Sharifpura,,,India,"Shariffpura is a locality in Amritsar, India. It was established by a Muslim by the name of Deputy Mohammad Shariff, known as the ""Raees of Amritsar"" and his son Engineer Fazal ur Rehman Shariff in the early 1920s.","POINT(74.887992 31.631936)","1. High confidence",,
+3445,Kashmir,,,India,,"POINT(75.341218 33.277839)","1. High confidence",,
+3447,Delhi,,,India,,"POINT(77.10249 28.704059)","1. High confidence",,
+3448,Punjab,,,India,,"POINT(75.341218 31.147131)","1. High confidence",,
+3449,"Jallianwala Bagh",,,India,,"POINT(74.880109 31.620644)","1. High confidence",,
+3451,Bombay,,,India,,"POINT(72.877656 19.075984)","1. High confidence",,
+3453,"Soviet Union",,,"Russian Federation",,"POINT(105.318756 61.52401)","1. High confidence",,
+3470,Titwal,,,India,"Titwal is a small border-village near the LoC in Kupwara district of the Indian union territory of Jammu and Kashmir. The village is 82 km from the district headquarters, Kupwara. Teetwal is connected to the rest of India via Tangdhar.","POINT(73.772791 34.391564)","1. High confidence",Area,"10 Village/Civic Ward"
+3536,Jullandar,,,India,"Jalandhar is an ancient city in the north Indian state of Punjab. It’s home to Devi Talab Mandir, a centuries-old Hindu temple dedicated to the goddess Durga, with a tank considered sacred by devotees. The whitewashed Gurdwara Chhevin Patshahi is a place of worship for Sikhs. To the southeast lies St. Mary’s Cathedral, a modern building with Punjabi architectural elements, 2 domed towers and a pond","POINT(75.576183 31.326015)","1. High confidence",Point,"8 Municipal Corporation / Municipality / City Council"
+3541,Saharanpur,,,India,"Saharanpur is a city and a municipal corporation in Uttar Pradesh, India. It is also the administrative headquarters of Saharanpur district. Saharanpur city's name was given after the Saint Shah Haroon Chishti. A very famous temple of ""Shakumbhri Devi"" is situated in Saharanpur","POINT(77.555207 29.968004)","1. High confidence",Point,"8 Municipal Corporation / Municipality / City Council"
+3542,Patiala,,,India,"Patiala is a city in southeastern Punjab, northwestern India. It is the fourth largest city in the state and is the administrative capital of Patiala district","POINT(76.38688 30.339781)","1. High confidence",Point,"8 Municipal Corporation / Municipality / City Council"
+3543,Amritsar,,,India,"Amritsar is a city in the northwestern Indian state of Punjab, 28 kilometers from the border with Pakistan. At the center of its walled old town, the gilded Golden Temple (Harmandir Sahib) is the holiest gurdwara (religious complex) of the Sikh religion. It’s at the end of a causeway, surrounded by the sacred Amrit Sarovar tank (lake), where pilgrims bathe.","POINT(74.872264 31.633979)","1. High confidence",Point,"8 Municipal Corporation / Municipality / City Council"
+3560,"Amritsar in The Price of Freedom",,,India,,"POINT(74.872264 31.633979)","1. High confidence",,
+3617,"Wagah Border",Wagha,,India,"The international border between India and Pakistan.","POINT(74.573044 31.604616)","1. High confidence",Area,"3 Division"
+3621,"Pakistan High Commission in Delhi",,,India,,"POINT(77.19034 28.594099)","2. Probable location",Point,
+3721,"Advani Chambers",,,India,,"POINT(72.805385 18.9645)","1. High confidence",Area,"9 Civic Zone"
+3732,Deolali,,,India,,"POINT(74.621012 19.472801)","2. Probable location",,
+3737,Myanmar,Burma,,Myanmar,,"POINT(95.955974 21.916221)","1. High confidence",Area,
+3739,Singapore,,,Singapore,,"POINT(103.819836 1.352083)","1. High confidence",Area,
+3741,"Hong Kong",,,"Hong Kong",,"POINT(114.169361 22.319304)","1. High confidence",Area,
+3746,"Juhu Beach",,,India,,"POINT(72.826448 19.097419)","1. High confidence",Area,
+3751,Pune,Poona,,India,,"POINT(73.856744 18.52043)","1. High confidence",Area,
+3820,Punjab,,,India,,,"1. High confidence",,
+3821,"Civil Lines",,,India,,,"1. High confidence",,
+3836,Narhali,,,India,,,"1. High confidence",,
+3837,Pothohar,,,India,,,"1. High confidence",,
+3838,"Rawalpindi Division",,,India,,,"1. High confidence",,
+3841,Ludhiana,,,India,,,"1. High confidence",,
+3842,"Theekri Majra",,,India,,,"1. High confidence",,
+3843,Lahore,,,Pakistan,,,"1. High confidence",,
+3845,Saikot,,,India,,,"1. High confidence",,
+3846,Malerkotla,,,India,,,"1. High confidence",,
+3951,Rawalpindi,,,Pakistan,"Rawalpindi, colloquially known as Pindi, is the capital city of the Rawalpindi Division located in the Punjab province of Pakistan","POINT(73.016914 33.565111)","1. High confidence",,
+3952,"Lal Kurti Cantonment",,,India,"Lal Kurti Cantonment, Roorkee Cantonment is a Locality in Roorkee City in Uttarakhand State, India.","POINT(77.890848 29.854442)","1. High confidence",,
+3953,Narhali,,,Pakistan,,"POINT(77.031978 31.577111)","4. Uncertain",,
+3954,Duberan,,,Pakistan,,"POINT(73.504929 33.448972)","1. High confidence",,
+3984,Gwalior,,,India,,"POINT(78.177205 26.212401)","1. High confidence",,
+4016,Tanzania,,,"Tanzania, United Republic of",,"POINT(394.889139 -6.246553)","1. High confidence",,
+4113,Lahore,,,Pakistan,,"POINT(74.358747 31.52037)","1. High confidence",,
+4117,Karachi,,,Pakistan,,"POINT(67.001136 24.860734)","1. High confidence",,
+4121,"West Punjab",,,Pakistan,,"POINT(72.709716 31.170406)","1. High confidence",,
+4123,Bombay,,,India,,"POINT(72.877656 19.075984)","1. High confidence",,
+4127,Madras,,,India,,"POINT(80.270718 13.08268)","1. High confidence",,
+4131,Benaras,,,India,,"POINT(82.973914 25.317645)","1. High confidence",,
+4135,Ahmedabad,,,India,,"POINT(72.571362 23.022505)","1. High confidence",,
+4177,"Ramdas Sarai",,,India,,"POINT(78.862327 28.042199)","2. Probable location",Point,
+4179,Rambagh,,,India,,"POINT(75.812471 26.899683)","1. High confidence",,
+4321,Spain,,,Spain,,"POINT(-3.74922 40.463667)","1. High confidence",Area,
+4330,Peshawar,,,Pakistan,,"POINT(71.524915 34.015137)","1. High confidence",Area,
+4333,"Mozang Chungi",Mozang,,Pakistan,,"POINT(74.313753 31.559651)","2. Probable location",Area,
+4334,"Anarkali Bazaar",Anarkali,,Pakistan,,"POINT(74.316111 31.566667)","2. Probable location",Area,
+4335,Shahrah-e-Quaid-e-Azam,"The Mall|Mall Road",,Pakistan,,"POINT(74.338861 31.553026)","2. Probable location",Area,
+4336,"Government College University Lahore (GCUL)","Government College",,Pakistan,,"POINT(74.307859 31.573152)","1. High confidence",Area,
+4337,"District Courts Lahore",,,Pakistan,,"POINT(74.305291 31.573481)","2. Probable location",Area,
+4343,"Lahore Cantonment",,,Pakistan,,"POINT(74.416029 31.478727)","2. Probable location",Area,
+4345,"Shahi Mohallah","Hira Mandi",,Pakistan,,"POINT(74.308521 31.58608)","2. Probable location",Area,
+4386,"Mughal Chak",,,Pakistan,"Sikh village","POINT(74.091292 32.144002)","2. Probable location",,
+4387,Mannawala,,,Pakistan,"District of Sheikhpura","POINT(73.691881 31.588105)","1. High confidence",,
+4388,"Gujranwala Refugee Camp",,,Pakistan,,"POINT(74.194453 32.187692)","2. Probable location",,
+4389,"Qazi da Kot",,,Pakistan,,"POINT(72.006815 32.824387)","1. High confidence",,
+4390,"Dera Baba Nanak",,,India,,"POINT(75.030448 32.032186)","1. High confidence",,
+4391,"Rawalpindi division",,,Pakistan,,"POINT(73.37087 33.461968)","1. High confidence",,
+4392,"Guru Nanak Khalsa College, Gujranwala",,,Pakistan,,"POINT(74.194453 32.187692)","5. Mobile",,
+4393,Gharjhakh,,,Pakistan,,"POINT(74.154824 32.170184)","1. High confidence",,
+4499,Amethi,,,India,,"POINT(81.814238 26.154054)","1. High confidence",Area,
+4516,"Roorkee Canal",,,India,,"POINT(77.897015 29.880392)","2. Probable location",Line,
+4584,Karbala,,,Iraq,"A location of Islamic importance where the Prophet's grandson, Hussain, along with his army was deprived of water and massacred by Yazid.","POINT(44.019699 32.602715)","1. High confidence",,
+4594,Purqazi,,,India,,"POINT(77.839587 29.657222)","1. High confidence",,

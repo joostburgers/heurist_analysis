@@ -1,48 +1,193 @@
 ---
 title: "Heurist Analysis"
 author: "Johannes Burgers"
-date: "11/1/2021"
+date: "10/30/2021"
 output: html_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
-library(rjson)
-library(jsonlite)
+```{r load_libraries}
 library(tidyverse)
-library(tidyjson)
+library(tidytext)
+library(ggthemes)
+```
+
+#Creating the data table
+
+```{r get_event_present_data}
+events_present <- read_csv("data/rectype-59.csv")
+events_present_unnest <- events_present %>%
+  unnest_regex(CharacterID, "Characters(s) in Event H-ID", pattern = "\\|") %>%                 mutate(PresentMentioned = "Present") %>%
+  select(-"Characters(s) in Event RecordTitle")
+```
+
+```{r get_event_mentioned_data}
+events_mentioned <- read_csv("data/rectype-59-mentioned.csv")
+events_mentioned_unnest <- events_mentioned %>%
+  unnest_regex(CharacterID, "Character(s) mentioned H-ID", pattern = "\\|") %>%                 mutate(PresentMentioned = "Mentioned") %>%
+  select(-"Character(s) mentioned RecordTitle") %>%
+  drop_na(CharacterID)
 ```
 
 
-```{r}
-result <- fromJSON(file = "data/Export_partition_literature_20211101192131.json")
+```{r bind_data}
+all_events <- events_present_unnest %>%
+  bind_rows(events_mentioned_unnest) %>%
+  mutate(CharacterID = as.numeric(CharacterID)) %>%
+  rename("Text place H-ID" = "Location of Event (Text place) H-ID")
 ```
 
-```{r}
-dat <- jsonlite::fromJSON("data/Export_partition_literature_20211101192131.json", flatten = TRUE)[[1]]
+```{r import_characters}
+characters <-  read_csv("data/rectype-54.csv") %>%
+  rename(CharacterID = "Character H-ID") 
+```
+
+```{r import_locations}
+locations <- read_csv("data/rectype-12.csv")
+```
+
+```{r import_texts}
+texts <- read_csv("data/rectype-55.csv") %>%
+  rename("Author H-ID" = "Author(s) > H-ID")
+```
+
+```{r import_places}
+places <- read_csv("data/rectype-58.csv") %>%
+  rename("Location H-ID" = "Location pointer H-ID") %>%
+  rename("Text H-ID" = "Text pointer H-ID")
+```
+
+```{r import_event_texts}
+event_texts <- read_csv("data/rectype-59-titles.csv") 
+```
+
+```{r import_authors}
+authors <-
+  read_csv("data/Export_partition_literature_t10_Author.csv")
 ```
 
 
-
-
-```{r}
-data_frame <- as.data.frame(result)
+```{r create_full_table}
+full_table <- all_events %>%
+  left_join(characters) %>%
+  left_join(places, by = "Text place H-ID") %>%
+  left_join(locations) %>%
+  left_join(texts) %>%
+  left_join(authors, by = "Author H-ID", suffix = c("", "_author")) 
 ```
 
-```{r}
-purch_items <- results %>%
-  gather_array %>%                                     # stack the users 
-  spread_values(person = jstring("name")) %>%          # extract the user name
-  enter_object("purchases") %>% gather_array %>%       # stack the purchases
-  spread_values(purchase.date = jstring("date")) %>%   # extract the purchase date
-  enter_object("items") %>% gather_array %>%           # stack the items
-  spread_values(                                       # extract item name and price
-    item.name = jstring("name"),
-    item.price = jnumber("price")
+```{r clean_data}
+partition_narratives <- full_table %>%
+  select(
+    -"Text place H-ID",
+    -"Location of Event RecordTitle",
+    -"CharacterID",
+    -"Text pointer RecordTitle",
+    -"Location H-ID",
+    -"Location pointer RecordTitle",
+    -"Author H-ID",
+    -"Text H-ID",
+    -"Family name_author",
+    -"Given name(s)_author"
   ) %>%
-  select(person, purchase.date, item.name, item.price)
+  rename(ReligiousAttrChar = "Religious attribution.x") %>%
+  rename(ReligiousAttrLoc = "Religious attribution.y") %>%  
+  rename(author_name = "Author(s) > RecordTitle") %>% 
+  relocate(40, .before = 1) %>%
+  relocate(41:43, .before = 1) %>% 
+  rename_all(tolower) %>% 
+  rename_with(~ gsub(" ", "_", .x)) %>% 
+  rename_with(~ gsub("h-", "", .x)) %>% 
+  rename_with(~ gsub("\\(s\\)", "", .x))
+```
+
+#Playing with the data
+
+### Do women write more about women?
+
+```{r gender_author_table}
+gender_authorship <- partition_narratives %>%
+  group_by(gender_author) %>%
+  filter(presentmentioned=="Present") %>% 
+  drop_na(gender) %>% 
+  count(gender) %>%
+  mutate(percent = round((n / sum(n) * 100), 2))
+  
+```
+
+```{r gender_author_plot}
+gender_authorship %>% 
+  ggplot(aes(x=gender,y=percent, fill=gender_author)) +
+  geom_col(
+     color = "black",
+    alpha = .5,
+    position = "identity",
+    bins = 5
+  ) +
+  labs(title = "Gender and Authorship",
+       x = "Gender",
+       y = "Percent Present in Events",
+       fill = "Author Gender") +
+  theme_clean()
+```
+
+## What location has the most religious conflict?
+
+```{r religious_conflict_places}
+religion_places <-  partition_narratives %>%
+  group_by(author_name) %>%
+  mutate(location_religion = ifelse(str_detect(location_religion,"\\|")==TRUE, "Multi-faith", location_religion)) %>% 
+  filter(str_detect(conflict, "Religion")) %>% 
+  count(location_religion)
+```
+
+```{r religious_conflict_plot}
+religion_places %>% 
+  ggplot(aes(x=location_religion,y=n, fill=location_religion)) +
+  geom_col(
+     color = "black",
+    alpha = .5,
+    position = "identity",
+    bins = 5
+  ) +
+  labs(title = "Religious Conflict by Religious Locations",
+       x = "Location Religion",
+       y = "Number of Religious Conflicts",
+       fill = "Author") +
+  facet_wrap(~author_name)+
+  theme_clean()
+```
+
+
+## Where do people die?
+
+```{r mortality}
+death_places <- partition_narratives %>% 
+                group_by(place_name) %>% 
+                count(vitality) %>% 
+                drop_na(vitality)
+```
+
+```{r mortality_plot}
+death_places %>% 
+  ungroup() %>% 
+  top_n(10) %>% 
+  ggplot(aes(x=reorder(place_name,n),y=n, fill=vitality)) +
+  geom_col(
+     color = "black",
+    alpha = .5,
+      position = "dodge") +
+
+  labs(title = "Vitality by Location",
+       x = "Place Name",
+       y = "Number of Life Events",
+       fill = "Author") +
+    theme_clean()+
+  coord_flip()
 ```
 
