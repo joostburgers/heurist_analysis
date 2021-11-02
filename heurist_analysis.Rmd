@@ -127,7 +127,7 @@ gender_authorship %>%
   geom_col(
      color = "black",
     alpha = .5,
-    position = "identity",
+    position = "dodge",
     bins = 5
   ) +
   labs(title = "Gender and Authorship",
@@ -137,7 +137,7 @@ gender_authorship %>%
   theme_clean()
 ```
 
-## What location has the most religious conflict?
+### What location has the most religious conflict?
 
 ```{r religious_conflict_places, echo=TRUE}
 religion_places <-  partition_narratives %>%
@@ -165,7 +165,7 @@ religion_places %>%
 ```
 
 
-## Where do people die?
+### Where do people die?
 
 ```{r mortality, echo=TRUE}
 death_places <- partition_narratives %>% 
