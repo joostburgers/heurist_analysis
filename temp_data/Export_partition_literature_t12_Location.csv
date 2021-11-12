@@ -1,4 +1,4 @@
-"Location H-ID","Primary place name","Alternative Name","Locality name","Location Country","Short description","Location (mappable)","Locational certainty",Geometry,"Administrative area"
+﻿"Location H-ID","Primary place name","Alternative Name","Locality name","Location Country","Short description","Location (mappable)","Locational certainty",Geometry,"Administrative area"
 22,"Lucknow University",,,India,"Lucknow in UP","POINT(80.936033 26.863315)","1. High confidence",Point,"7 Metropolitan Area"
 27,Hadali,,,Pakistan,"Hadali, Punjab, Pakistan","POINT(72.192222 32.292222)","1. High confidence",Point,
 33,Rawalpindi,"Teli Mohalla RdWaris Khan Rawalpindi",,Pakistan,"Rawalpindi, colloquially known as Pindi, is the capital city of the Rawalpindi Division located in the Punjab province of Pakistan","POINT(73.062762 33.616531)","1. High confidence",Point,"7 Metropolitan Area"
