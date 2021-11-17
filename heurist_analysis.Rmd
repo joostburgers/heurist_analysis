@@ -143,6 +143,15 @@ write_csv(partition_narratives,"partition_database.csv")
 ```
 
 
+```{r export_locations}
+partition_geotagged <- partition_narratives %>% 
+                        drop_na(wkt)
+
+write_csv(partition_narratives, "partition_geotagged.csv")
+```
+
+
+
 # Playing with the data
 
 ### Does the gender of the author influence the gender of the characters?

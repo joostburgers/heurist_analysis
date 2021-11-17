@@ -1,0 +1,481 @@
+"Text place H-ID","Place name","Location religion","Religious attribution",Geolocation,"Geolocation Page",Mentioned,"Text pointer H-ID","Text pointer RecordTitle","Location pointer H-ID","Location pointer RecordTitle"
+65,Zenana,Muslim,Definitional,FALSE,,TRUE,25,"Sunlight on a Broken Column",,
+128,"Sutlej River",Unknown,"Other-identified.Narrator other-attributed",CREATED,,,28,"Train to Pakistan",119,"Mano Majra"
+137,"Relief Committee Office",Unknown,,FALSE,,,34,Tamas,,
+154,"Khalsa School",Sikh,Nominal,,,,34,Tamas,,
+176,"Top of hill (Alexander valley)",Unknown,"Other-identified.Character other-attributed",CREATED,27,,34,Tamas,2991,"Hindu Kush"
+183,"Naya Mohalla Chowk",Unknown,Speculation,,,,34,Tamas,,
+195,"Grain Market",Unknown,Definitional,,,,34,Tamas,,
+198,"Milk Shops",Unknown,Definitional,,,,34,Tamas,,
+200,Congregation,Hindu,Definitional,,,,34,Tamas,,
+211,"THE CITY",Unknown,Definitional,,,,34,Tamas,,
+235,"Richard & Liza's bungalow",Christian,Speculation,,,,34,Tamas,,
+334,"Rashida's home",Muslim,Speculation,CREATED,,,37,Pinjar,3114,"Sakar Village: Rashid's Home"
+338,"Pooro's home, Chatto village",Hindu,Speculation,CREATED,1,,37,Pinjar,3112,"Chatto Village: Pooro's Home"
+355,"Sakkar village",Unknown,,CREATED,15,FALSE,37,Pinjar,,
+370,"Lucknow, India",Unknown|Unaffiliated,,CREATED,,,25,"Sunlight on a Broken Column",22,"Lucknow University"
+397,Well,Muslim,,CREATED,,FALSE,37,Pinjar,3116,"Sakar Village: Well"
+427,University,Unknown,,CREATED,,,25,"Sunlight on a Broken Column",22,"Lucknow University"
+458,"Rahima's house",Muslim,,CREATED,12,TRUE,37,Pinjar,3115,"Sakar Village: Rahima's Home"
+559,Rattoval,Unknown,Speculation,CREATED,,,37,Pinjar,281,"Rattoval Village"
+604,"Nathu's Hut",Muslim,,FALSE,,,34,Tamas,,
+606,"Sheikh's Garden",Unknown,,FALSE,,,34,Tamas,,
+607,"Ox-cart Road",Hindu|Muslim|Sikh,,FALSE,,,34,Tamas,,
+610,"Tanners' Colony",,,FALSE,,,34,Tamas,,
+612,"Congress Committee Office",Unknown,,CREATED,,,34,Tamas,2580,"Bara Bazaar"
+617,"Bara Bazaar",,,CREATED,,,34,Tamas,872,"Raja Bazaar"
+632,"Arya School",,,CREATED,,,34,Tamas,33,Rawalpindi
+647,Khanpur,Sikh|Hindu,"Other-identified.Character other-attributed",CREATED,,,34,Tamas,875,Khanpur
+650,"Harnam Singh's village",Muslim,"Other-identified.Narrator other-attributed",CREATED,,,34,Tamas,871,"Harnam Singh Wala Village"
+653,Mirpur,Muslim,"Other-identified.Character other-attributed",CREATED,,,34,Tamas,873,Mirpur
+658,"Banto's sister's village",Sikh,"Other-identified.Character other-attributed",CREATED,,TRUE,34,Tamas,875,Khanpur
+663,"Jasbir's village",Sikh,"Other-identified.Character other-attributed",CREATED,137,TRUE,34,Tamas,3064,"Saidpur Village"
+670,Delhi,Unknown,Speculation,CREATED,,,25,"Sunlight on a Broken Column",3108,Delhi
+671,"Hamid's Study",Unknown,,FALSE,,,25,"Sunlight on a Broken Column",,
+681,Mecca,Muslim,Definitional,CREATED,,,25,"Sunlight on a Broken Column",1298,Mecca
+701,"Mano Majra",Hindu|Muslim|Sikh,,FALSE,,,28,"Train to Pakistan",,
+703,Chundunnugger,Unknown,,FALSE,,,28,"Train to Pakistan",,
+704,"Mano Majra Railway Station",,,FALSE,,,28,"Train to Pakistan",,
+705,Gurudwara,Sikh,Definitional,FALSE,,,28,"Train to Pakistan",,
+706,"Near the Railway Station",,,FALSE,,,28,"Train to Pakistan",,
+720,"Temple, Congregation",Hindu,Definitional,FALSE,42,FALSE,34,Tamas,,
+725,"Local Gurdwaras",Sikh,Definitional,FALSE,,TRUE,34,Tamas,,
+726,Mosque,Muslim,Definitional,CREATED,42,TRUE,34,Tamas,879,"Imam Din Gali"
+727,"Jama Masjid",Muslim,Definitional,CREATED,42,TRUE,34,Tamas,874,"Jama Masjid"
+728,"yard of the temple",Hindu,Definitional,FALSE,42,FALSE,34,Tamas,,
+747,Mosque,Muslim,Definitional,FALSE,,,28,"Train to Pakistan",,
+750,"Outside the Village on the Station Side",,,FALSE,,,28,"Train to Pakistan",,
+751,Rooftops,,,FALSE,,,28,"Train to Pakistan",,
+770,"Naya Mohalla",Hindu,"Other-identified.Character other-attributed",CREATED,43,TRUE,34,Tamas,33,Rawalpindi
+771,Rajpura,Hindu,"Other-identified.Character other-attributed",CREATED,43,TRUE,34,Tamas,865,Rajpura
+777,"Shivala, the Old Temple",Hindu,Definitional,CREATED,44,TRUE,34,Tamas,1065,"Shivala Bazaar"
+817,"Imam Din Mohalla",Muslim,Speculation,CREATED,35,TRUE,34,Tamas,879,"Imam Din Gali"
+828,"Committee Park",Unknown,,CREATED,35,FALSE,34,Tamas,879,"Imam Din Gali"
+834,"Naanbai’s shop, Kutub Din gali, near Imam Din Mohalla",Unknown,,CREATED,,TRUE,34,Tamas,879,"Imam Din Gali"
+835,"Kutub Din gali near Imam Din Mohalla",Unknown,,CREATED,38,TRUE,34,Tamas,1529,"Kutub Din"
+837,"Kelon ka Masjid",Muslim,Definitional,CREATED,39,TRUE,34,Tamas,870,"Masjid Sherwanikot"
+838,"Gali of the Mohyals",,,FALSE,,,34,Tamas,,
+856,"Ranvir's home",Unknown,Definitional,FALSE,,,34,Tamas,,
+863,Lahore,Muslim,"Other-identified.Narrator other-attributed",CREATED,,,37,Pinjar,1348,Lahore
+892,"Mrs Wadia's place",Unknown,,FALSE,,TRUE,25,"Sunlight on a Broken Column",,
+918,"Cambridge University",Unaffiliated,,CREATED,172,TRUE,25,"Sunlight on a Broken Column",1295,"Cambridge University"
+926,"Hasan Home in the Hills",Muslim,"Other-identified.Character other-attributed",FALSE,,FALSE,25,"Sunlight on a Broken Column",,
+937,"Lala Ram Lal's House",Hindu,"Other-identified.Narrator other-attributed",FALSE,,,28,"Train to Pakistan",,
+938,"Juggut's House",Sikh,Speculation,FALSE,,,28,"Train to Pakistan",,
+943,street,Unknown,,FALSE,254,,25,"Sunlight on a Broken Column",,
+959,"Veterinary Hospital",,,FALSE,,,34,Tamas,,
+1000,"Railroad Bridge",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1001,"River Bank",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1002,"Rest House",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1004,"Train Compartment",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1033,"Bottom of hill",Unknown,,FALSE,,,34,Tamas,,
+1035,"Allah Rakha's home",Muslim,Definitional,FALSE,,,34,Tamas,,
+1106,"Yard outside Nathu's Hut",Muslim,,FALSE,,,34,Tamas,,
+1127,"Scrutiny Committee Office",Unknown,,FALSE,,,34,Tamas,,
+1139,Gujranwala,Sikh,"Other-identified.Character other-attributed",CREATED,,,28,"Train to Pakistan",3070,Gujranwala
+1163,"Lambardar's House",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1166,"Refugee Camp near Chundunnugger",Muslim,Other-identified,FALSE,,TRUE,28,"Train to Pakistan",,
+1167,"Refugee camp near Jullundur",Muslim,Speculation,CREATED,,TRUE,28,"Train to Pakistan",3071,Jullunder
+1168,Kapoora,Unknown,,CREATED,,TRUE,28,"Train to Pakistan",3119,"Kapoor Haveli"
+1169,"Gujjoo Matta",Unknown,,CREATED,,TRUE,28,"Train to Pakistan",3069,"Gajju Matah"
+1170,"Imam Baksh's House",Muslim,Definitional,FALSE,,,28,"Train to Pakistan",,
+1179,Muridpur,Muslim,"Other-identified.Character other-attributed",CREATED,,FALSE,34,Tamas,1527,Muridpur
+1218,"Peepul Tree near the Temple",Unaffiliated,,FALSE,,FALSE,28,"Train to Pakistan",,
+1239,"Khalsa Kitchen",Sikh,Definitional,FALSE,,,34,Tamas,,
+1240,"Muslim neighbourhood",Muslim,Nominal,FALSE,,,34,Tamas,,
+1242,"Sheikh Ghulam Rasool's house",Muslim,,FALSE,,,34,Tamas,,
+1251,"Feeding trough",Unknown,,FALSE,,,34,Tamas,,
+1253,Kahuta,Sikh,Definitional,CREATED,,,34,Tamas,1553,Kahuta
+1262,"Butcher shops",Muslim,"Other-identified.Narrator other-attributed",FALSE,,,34,Tamas,,
+1263,"Sheikh's House",Muslim,Definitional,FALSE,,,34,Tamas,,
+1264,"Ganda Singh's Tea Stall",Unaffiliated,,CREATED,,,34,Tamas,33,Rawalpindi
+1266,Bombay,,,CREATED,,TRUE,34,Tamas,1350,Mumbai
+1267,Lahore,,,CREATED,,TRUE,34,Tamas,1348,Lahore
+1268,Madras,,,CREATED,,TRUE,34,Tamas,1353,"Madras Presidency"
+1277,"Teli Mohalla",Muslim,Speculation,CREATED,,,34,Tamas,33,Rawalpindi
+1285,"Harnam Singh's shop",Sikh,Nominal,CREATED,,TRUE,34,Tamas,33,Rawalpindi
+1294,"Ehsan Ali's home, Muridpur",Muslim,Nominal,CREATED,,,34,Tamas,1527,Muridpur
+1313,"Fields and hills near Muridpur",,,CREATED,,,34,Tamas,,
+1320,"Home of Imam Deen the oilman, Muridpur",Muslim,Definitional,CREATED,,,34,Tamas,1527,Muridpur
+1324,"Well near Imam Deem's home",,,FALSE,,,34,Tamas,,
+1389,"Road in front of the Hasan house",Unaffiliated,,FALSE,,,25,"Sunlight on a Broken Column",,
+1396,Hostel,Unaffiliated,,CREATED,,,25,"Sunlight on a Broken Column",3075,Hostel
+1400,"Banta Singh's house in Mano Majra",,,FALSE,,,28,"Train to Pakistan",,
+1419,Fields,Unknown,,FALSE,,,28,"Train to Pakistan",,
+1441,"Keekar Grove near Mano Majra",Unaffiliated,,FALSE,,,28,"Train to Pakistan",,
+1450,"Enroute Chundunnugger",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1457,"Chundunnugger Police Station",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1489,"A ghost train from Pakistan",Sikh|Hindu,Speculation,FALSE,,,28,"Train to Pakistan",,
+1516,"The Gali, where Shambu's elderly Grandparents lived.",Hindu|Muslim,"Other-identified.Narrator other-attributed",FALSE,,,34,Tamas,,
+1517,"Veranda in Rest House",Unknown,,FALSE,,,28,"Train to Pakistan",,
+1524,"The Gali where Shambu's elderly grandparents lived [Beyond the tap]",Hindu,"Other-identified.Narrator other-attributed",FALSE,,,34,Tamas,,
+1526,"The gali where Shambu's Elderly Grandparents lived (End of the Gali) i.e The 2 or 3 mudhuts",Muslim,,FALSE,,,34,Tamas,,
+1531,"The Two Storey house (Shambhu's Grandparents lived downstairs)",Unknown,,CREATED,,,34,Tamas,,
+1571,"Broken tomb of a pir at the bend of Shambhu's gali",Muslim,,FALSE,,,34,Tamas,,
+1637,"Galli to left of gurudwara",Unaffiliated,,FALSE,,,34,Tamas,,
+1645,"Outside Nathu's Room",,,FALSE,,,34,Tamas,,
+1663,"Nathu's Room (Home)",,,FALSE,,,34,Tamas,,
+1876,Bazaar,Unknown,,FALSE,,,25,"Sunlight on a Broken Column",,
+1880,Ridge,Unaffiliated,,FALSE,,,25,"Sunlight on a Broken Column",,
+1883,"Railway Crossing",,,FALSE,,,25,"Sunlight on a Broken Column",,
+1894,"Chairman's house",Hindu,Definitional,FALSE,,,34,Tamas,,
+1896,Galis,Unaffiliated,Definitional,FALSE,45,,34,Tamas,,
+1898,"Gurkha Chowkidar's Room",Hindu,Definitional,FALSE,45,,34,Tamas,,
+1914,"Kemal's room",,,FALSE,264,,25,"Sunlight on a Broken Column",22,"Lucknow University"
+1915,Ashiana,,,CREATED,270,,25,"Sunlight on a Broken Column",22,"Lucknow University"
+1917,"Settlement for refugees",,,FALSE,270,,25,"Sunlight on a Broken Column",,
+1918,Residency,,,CREATED,270,,25,"Sunlight on a Broken Column",3068,Residency
+1919,Mall,,,MAYBE,,,25,"Sunlight on a Broken Column",,
+1920,"Government House",,,CREATED,270,,25,"Sunlight on a Broken Column",3067,"Government House"
+1921,Conservatory,,,FALSE,272,,25,"Sunlight on a Broken Column",,
+1922,"Tennis Court",,,FALSE,272,FALSE,25,"Sunlight on a Broken Column",,
+1923,garage,,,FALSE,273,,25,"Sunlight on a Broken Column",,
+1924,stable,,,FALSE,272,,25,"Sunlight on a Broken Column",,
+1925,"servant quarters",,,FALSE,273,,25,"Sunlight on a Broken Column",,
+1926,"kitchen garden",,,FALSE,273,,25,"Sunlight on a Broken Column",,
+1937,Ashram,,,MAYBE,276,,25,"Sunlight on a Broken Column",,
+1942,"Store-house/Youth Wing Gathering",Hindu,Definitional,FALSE,,FALSE,34,Tamas,,
+1946,"Sweet Shop",Hindu,"Other-identified.Character other-attributed",FALSE,48,,34,Tamas,,
+1948,"Outside the House (Store-House/Gathering of the Youth)",Hindu,Definitional,FALSE,,,34,Tamas,,
+1950,Lawn,Unknown,Definitional,FALSE,,FALSE,25,"Sunlight on a Broken Column",,
+1951,London,Christian,Speculation,CREATED,189,TRUE,25,"Sunlight on a Broken Column",2622,London
+1984,Bombay,Unaffiliated,,CREATED,,TRUE,25,"Sunlight on a Broken Column",1350,Mumbai
+1991,House,Muslim,Speculation,FALSE,,TRUE,25,"Sunlight on a Broken Column",,
+2005,England,Unaffiliated,,CREATED,,TRUE,25,"Sunlight on a Broken Column",2612,England
+2034,Baradari,Unknown,,CREATED,,TRUE,25,"Sunlight on a Broken Column",3066,Baradari
+2064,"Ritz Hotel",Unknown,Speculation,MAYBE,202,TRUE,25,"Sunlight on a Broken Column",,
+2065,Cinema,Unaffiliated,Speculation,FALSE,,TRUE,25,"Sunlight on a Broken Column",,
+2066,Shimla,Hindu,Definitional,CREATED,204,TRUE,25,"Sunlight on a Broken Column",2609,Shimla
+2067,"Medical College Hospital",Unaffiliated,Speculation,CREATED,204,TRUE,25,"Sunlight on a Broken Column",22,"Lucknow University"
+2068,Boathouse,Unknown,Speculation,FALSE,,FALSE,25,"Sunlight on a Broken Column",,
+2145,"Baba Jan’s room",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2146,"Laila and Zahra’s room",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2147,Hasanpur,,,CREATED,,,25,"Sunlight on a Broken Column",1453,Hasanpur
+2149,"Raja Hasan Ahmad’s palace",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2150,"Aunt Abida’s room",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2151,"English Universities",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2152,"Mango grove on the outskirts of the village where the grass grew over the graves of my ancestors",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2155,Orchards,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2156,Veranda,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2157,Shops,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2158,Offices,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2159,Restaurants,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2161,"The Mall",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2162,"Marble pavilion",,,MAYBE,,,25,"Sunlight on a Broken Column",,
+2163,River-bank,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2164,"House and garden built by Raja Hasan Ahmad",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2166,"Hasan family house",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2167,"sun-lit courtyard",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2168,"Neighbouring villages to Hasanpur",,,CREATED,,,25,"Sunlight on a Broken Column",1453,Hasanpur
+2169,"Houses of Laila’s great grandfather and his brother’s descendants",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2170,"Carpenter’s shed",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2171,"Mud-walled veranda",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2172,"Small courtyard",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2176,"Forbidden street",Muslim,,FALSE,,,25,"Sunlight on a Broken Column",,
+2218,"Public Park",Unknown,,MAYBE,,,25,"Sunlight on a Broken Column",,
+2224,Surmai,Unknown,,FALSE,,,25,"Sunlight on a Broken Column",,
+2293,Chowk,Unknown,Speculation,FALSE,210,TRUE,25,"Sunlight on a Broken Column",,
+2303,"Amirpur House",Hindu,Speculation,CREATED,,TRUE,25,"Sunlight on a Broken Column",3065,"Amirpur Village"
+2305,"in the car",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2306,"English Club",Christian,Speculation,MAYBE,212,TRUE,25,"Sunlight on a Broken Column",,
+2309,"Bhimnagar Palace",,,CREATED,,,25,"Sunlight on a Broken Column",,
+2310,Calcutta,Hindu,Speculation,CREATED,213,TRUE,25,"Sunlight on a Broken Column",2625,Kolkata
+2313,"Corner bookshop",Unknown,Speculation,FALSE,,TRUE,25,"Sunlight on a Broken Column",,
+2317,garden,,,FALSE,,,25,"Sunlight on a Broken Column",,
+2320,"Wide sandy space on the river",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2342,"through the doors built in the courtyard walls",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2346,"Zainab's house",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2353,"under the sloping, rough thatch",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2355,"stuffy room",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2374,"back to the Hasan family house",,,FALSE,,,25,"Sunlight on a Broken Column",,
+2412,"Shivala Bazaar",Unaffiliated,,CREATED,63,,34,Tamas,1065,"Shivala Bazaar"
+2413,"Sarafon Bazaar",Unaffiliated,,CREATED,58,TRUE,34,Tamas,1065,"Shivala Bazaar"
+2414,"Khuda Bakhsh's Tailor Shop",Unaffiliated,,CREATED,,,34,Tamas,1065,"Shivala Bazaar"
+2415,"Shiva Temple",Hindu,Definitional,CREATED,59,TRUE,34,Tamas,1065,"Shivala Bazaar"
+2416,"Fazal Din's Naan Shop",Unaffiliated,,CREATED,,,34,Tamas,3063,"Shivala Road"
+2417,"Ganj Mandi",Unaffiliated,,CREATED,62,TRUE,34,Tamas,2686,"Ganj Mandi"
+2418,"Golra Sharif",Muslim,,CREATED,63,TRUE,34,Tamas,2802,"Golra Sharif"
+2419,Masiyari,,,TRUE,63,TRUE,34,Tamas,,
+2420,"Raja Bazaar",,,CREATED,65,TRUE,34,Tamas,872,"Raja Bazaar"
+2423,Sayedpur,Sikh|Muslim,,CREATED,,,34,Tamas,3064,"Saidpur Village"
+2426,Gurudwara,Sikh,Nominal,FALSE,,,34,Tamas,,
+2442,"Lala ji's house",Hindu,Nominal,FALSE,,,34,Tamas,,
+2449,"Outside Sayedpur",Muslim|Sikh,,CREATED,,,34,Tamas,3064,"Saidpur Village"
+2450,"Saddar Bazaar",Unaffiliated,,CREATED,,,34,Tamas,3061,"Sadar Bazar"
+2456,"Mai Satto tank",Unaffiliated,Definitional,FALSE,,,34,Tamas,,
+2462,"entrance to the left gali, right at the edge of the river",Sikh,Self-identified,FALSE,,,34,Tamas,,
+2469,"Raghunath's house",Hindu,"Other-identified.Character other-attributed",FALSE,,,34,Tamas,,
+2472,"Fortress of Sheik",Muslim,Nominal,FALSE,,,34,Tamas,,
+2479,"Raghunath's ancestral home",Hindu,"Other-identified.Character other-attributed",FALSE,,,34,Tamas,,
+2497,"Storeroom, Raghunath's ancestral home",Hindu,Nominal,FALSE,,,34,Tamas,,
+2514,"Outside Karaar houses",Sikh,Nominal,FALSE,,,34,Tamas,,
+2523,"Christian College",Christian,"Other-identified.Narrator other-attributed",FALSE,,,34,Tamas,,
+2541,"Deputy Commissioner's House",Unaffiliated,Definitional,FALSE,49,,34,Tamas,,
+2554,"Down the hill",Unknown,,FALSE,,,34,Tamas,,
+2587,"Outside the DC's House",Unaffiliated,,FALSE,,,34,Tamas,,
+2616,"Dev Dutt's house",Hindu,Nominal,FALSE,,,34,Tamas,,
+2624,"Unknown Chowk",Muslim,Speculation,FALSE,,,34,Tamas,,
+2634,"Communist Party Office",Unaffiliated,Other-identified,FALSE,,,34,Tamas,,
+2644,"Hayat Bakhsh's house",Hindu,Nominal,FALSE,,,34,Tamas,,
+2650,Ratta,Unaffiliated,,CREATED,,,34,Tamas,33,Rawalpindi
+2653,"Committee Mohalla",Unknown,,FALSE,,,34,Tamas,,
+2668,"On the way back to the city from the DC's house",Unaffiliated,,FALSE,,,34,Tamas,,
+2672,"in front of the Electricity Office",Unknown,,FALSE,,,34,Tamas,,
+2728,"Congress Run Relief",Unaffiliated,,CREATED,,,34,Tamas,33,Rawalpindi
+2732,"Health Officer, Mr Kapoor's house",Hindu,Nominal,FALSE,,,34,Tamas,,
+2746,"Outside Health Officer Kapoor's house",Hindu,,FALSE,,,34,Tamas,,
+2754,"Lajo's House",Muslim,Self-identified,CREATED,31,TRUE,37,Pinjar,281,"Rattoval Village"
+2762,"Peace Bus",Hindu|Muslim|Sikh,"Other-identified.Narrator other-attributed",FALSE,,,34,Tamas,,
+2779,Mosque,Muslim,Definitional,FALSE,,,25,"Sunlight on a Broken Column",,
+2788,College,Unaffiliated,Speculation,CREATED,,,25,"Sunlight on a Broken Column",22,"Lucknow University"
+2821,"Neighbouring Market",,,CREATED,3,TRUE,37,Pinjar,3109,"Chatto Village: Neighborhood Market"
+2824,Field,Unknown,,CREATED,,,37,Pinjar,3110,"Chatto Village: Field"
+2829,"Pooro's courtyard in her home",Hindu,Speculation,CREATED,,,37,Pinjar,3112,"Chatto Village: Pooro's Home"
+2887,India,,,CREATED,,,37,Pinjar,2993,India
+2894,"Neighbouring Village to Sakkar",Hindu|Muslim,,FALSE,55,TRUE,37,Pinjar,3117,"Sakkar: Neighbouring Village"
+2912,"Refugee Encampment outside Chatto",,,CREATED,57,,37,Pinjar,3118,"Chatto Village: Refugee Camp"
+3174,"Rawalpindi Train Station",Muslim,,CREATED,,,3170,"A New Taj Mahal",3175,"Rawalpindi Train Station"
+3306,Room,,,FALSE,,,3205,"Colder Than Ice",,
+3335,House,,,FALSE,,,3205,"Colder Than Ice",,
+3340,Canal,,,FALSE,,,3205,"Colder Than Ice",,
+3360,"Refugee camp",,,TRUE,,,3231,"The Return",3363,"Mughalpura, Lahore"
+3426,Amritsar,,,TRUE,,,3238,"The Assignment",,
+3458,Kashmir,,,TRUE,,,3421,"The Price of Freedom",,
+3459,Delhi,,,TRUE,,,3421,"The Price of Freedom",,
+3460,Punjab,,,TRUE,,,3421,"The Price of Freedom",,
+3462,"Jallianwala Bagh",,,TRUE,,,3421,"The Price of Freedom",,
+3463,Bombay,,,TRUE,,,3421,"The Price of Freedom",,
+3465,"Soviet Union",,,TRUE,,,3421,"The Price of Freedom",,
+3471,Titwal,Hindu,Speculation,TRUE,,TRUE,3292,"The Dog of Titwal",3470,Titwal
+3517,"Village, Pakistan",Muslim,,FALSE,,,3206,"Savage Harvest",,
+3520,"Village, Pakistan",Muslim,Self-identified,FALSE,,,3206,"Savage Harvest",,
+3538,"British India",Unknown,,FALSE,,FALSE,3384,"The Dutiful Daughter",,
+3564,Amritsar,Muslim,Definitional,CREATED,,,3421,"The Price of Freedom",3543,Amritsar
+3599,India,Hindu|Muslim|Sikh|Christian|Atheist|Unknown,Definitional,MAYBE,,TRUE,3212,"Toba Tek Singh",,
+3606,Pakistan,Muslim,Definitional,MAYBE,,TRUE,3212,"Toba Tek Singh",,
+3614,"Lahore Airport",Muslim,,TRUE,59,,3584,"Gul Mohammad Third-Timer",1348,Lahore
+3615,"Pakistan High Commission in Delhi",Unaffiliated,,CREATED,59,,3584,"Gul Mohammad Third-Timer",3621,"Pakistan High Commission in Delhi"
+3616,Wagha,Unknown,,TRUE,,FALSE,3212,"Toba Tek Singh",3617,"Wagah Border"
+3623,"Satkartar Well",Unknown,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3624,"Mai Veero's Pond",Unaffiliated,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3625,"Government High School, Rawalpindi",Unaffiliated,,TRUE,60,FALSE,3584,"Gul Mohammad Third-Timer",33,Rawalpindi
+3626,"Bhabris’ Market.",Unknown,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3627,"Tarlahi Village",Unknown,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3628,"Saidpuri Gate",,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3630,"Trunk Bazaar Chowk",Unaffiliated,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3631,"Narrator's house",Sikh,Self-identified,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3632,"Talwar's Market",,,FALSE,,,3584,"Gul Mohammad Third-Timer",,
+3657,Rawalpindi,Unaffiliated,,TRUE,60,,3584,"Gul Mohammad Third-Timer",33,Rawalpindi
+3679,"Lahore Lunatic Asylum",Muslim,,MAYBE,,,3212,"Toba Tek Singh",,
+3720,"Hills in Kashmir",,,MAYBE,,,3716,"The Last Salute",,
+3726,"Terrace of  Advani Chambers",,,CREATED,,FALSE,3574,Mozail,3721,"Advani Chambers"
+3729,"Kirpal's Mohalla",Muslim,"Other-identified.Character other-attributed",FALSE,,FALSE,3574,Mozail,,
+3730,Punjab,Sikh,,CREATED,,TRUE,3574,Mozail,3448,Punjab
+3731,Deolali,Hindu,,CREATED,,TRUE,3574,Mozail,3732,Deolali
+3733,Amritsar,Muslim,,CREATED,,TRUE,3574,Mozail,3543,Amritsar
+3734,Lahore,Muslim,,CREATED,,TRUE,3574,Mozail,1348,Lahore
+3735,"Kirpal and Tarlochan's village",Sikh,"Other-identified.Character other-attributed",MAYBE,,TRUE,3574,Mozail,,
+3736,Burma,,,CREATED,,TRUE,3574,Mozail,3737,Myanmar
+3738,Singapore,,,CREATED,,TRUE,3574,Mozail,3739,Singapore
+3740,"Hong Kong",,,CREATED,,TRUE,3574,Mozail,3741,"Hong Kong"
+3742,"Second-floor flat at Advani Chambers",,,CREATED,,,3574,Mozail,3721,"Advani Chambers"
+3743,"The cinema",,,MAYBE,,TRUE,3574,Mozail,,
+3745,"Juhu beach",,,CREATED,,TRUE,3574,Mozail,3746,"Juhu Beach"
+3747,Saharanpur,Unknown,,TRUE,,TRUE,3384,"The Dutiful Daughter",3541,Saharanpur
+3748,"Forat area",,,MAYBE,,FALSE,3574,Mozail,,
+3749,Poona,,,CREATED,,,3574,Mozail,3751,Pune
+3750,Jullandar,Unknown,,TRUE,,TRUE,3384,"The Dutiful Daughter",3536,Jullandar
+3752,Patiala,Unknown,,TRUE,,TRUE,3384,"The Dutiful Daughter",3542,Patiala
+3753,Amritsar,Unknown,,TRUE,,TRUE,3384,"The Dutiful Daughter",3543,Amritsar
+3755,"Big department store",,,FALSE,,,3574,Mozail,,
+3759,"Bazaar near the mohalla",,,FALSE,,FALSE,3574,Mozail,,
+3760,"Kirpal's Building",,,FALSE,,FALSE,3574,Mozail,,
+3765,"Store that was being looted",,,FALSE,,FALSE,3574,Mozail,,
+3771,"Taxi stand in front of Mozail's workplace",,,FALSE,,FALSE,3574,Mozail,,
+3774,Bombay,,,CREATED,,FALSE,3574,Mozail,3451,Bombay
+3787,"Kirpal's flat",,,FALSE,,FALSE,3574,Mozail,,
+3797,"Fort Area",,,MAYBE,,,3574,Mozail,,
+3800,"Public tap in front of Tarlochan's building",,,CREATED,,FALSE,3574,Mozail,3721,"Advani Chambers"
+3826,"Titwal Sector",,,TRUE,,,3716,"The Last Salute",,
+3830,"Camp hospital",,,FALSE,,,3231,"The Return",3363,"Mughalpura, Lahore"
+3831,"Mughalpura railway station",,,TRUE,,,3231,"The Return",3363,"Mughalpura, Lahore"
+3882,Punjab,,,TRUE,,TRUE,3180,"The Woman in the Red Raincoat",3448,Punjab
+3886,Field,,,TRUE,,,3231,"The Return",,
+3906,Kashmir,Muslim,,TRUE,,,3716,"The Last Salute",,
+3908,Pakistan,Muslim,,TRUE,,,3716,"The Last Salute",,
+3909,Junagarh,Muslim,,TRUE,,,3716,"The Last Salute",,
+3911,Hyderabad,Muslim,,TRUE,,,3716,"The Last Salute",,
+3913,"6/9 Jat Regiment",Unaffiliated,,MAYBE,,,3716,"The Last Salute",,
+3914,Punjab,Sikh|Muslim|Hindu,,TRUE,,,3716,"The Last Salute",,
+3961,"Lal Kurti Cantonment",,,TRUE,,,3938,"The Crimson Tonga",,
+3977,Unidentified,,,FALSE,,,3966,"Proper Use",,
+3981,Amritsar,,,TRUE,,,3979,"Sweet Moment",,
+3982,Bombay,,,TRUE,,,3979,"Sweet Moment",,
+3985,Gwalior,,,TRUE,,,3979,"Sweet Moment",,
+3997,Unknown,Unknown,,TRUE,,,3990,"FOR NECESSARY ACTION",,
+4021,"The house",,,FALSE,,,4002,"The Butcher",,
+4036,"Road between Ludhiana and Jalandhar",Sikh,Definitional,TRUE,,,4002,"The Butcher",,
+4037,Ludhiana,Sikh,Definitional,TRUE,97,TRUE,4002,"The Butcher",3157,Ludhiana
+4116,Lahore,,,CREATED,,TRUE,4080,"A Tale of 1947",,
+4120,Karachi,,,CREATED,,TRUE,4080,"A Tale of 1947",,
+4122,"West Punjab",,,CREATED,,TRUE,4080,"A Tale of 1947",,
+4124,Bombay,,,CREATED,,FALSE,4080,"A Tale of 1947",,
+4128,Madras,,,CREATED,,TRUE,4080,"A Tale of 1947",,
+4133,Benaras,,,CREATED,,TRUE,4080,"A Tale of 1947",,
+4136,Ahmedabad,,,CREATED,,TRUE,4080,"A Tale of 1947",,
+4175,Rambagh,Unaffiliated,,TRUE,165,,4048,Sympathy,4179,Rambagh
+4176,"Ramdas Sarai",Sikh,Self-identified,TRUE,,,4048,Sympathy,4177,"Ramdas Sarai"
+4199,Pakistan,Muslim,,FALSE,,,4048,Sympathy,,
+4320,Spain,Unknown,,CREATED,,FALSE,4281,"The New Constitution",4321,Spain
+4322,"The Mall",,,CREATED,,FALSE,4281,"The New Constitution",4335,Shahrah-e-Quaid-e-Azam
+4323,"Station Adda",,,FALSE,,FALSE,4281,"The New Constitution",,
+4324,India,,,CREATED,,TRUE,4281,"The New Constitution",2993,India
+4325,Hindustan,,,CREATED,,TRUE,4281,"The New Constitution",2993,India
+4326,"District Courts",,,CREATED,,FALSE,4281,"The New Constitution",4337,"District Courts Lahore"
+4327,Anarkali,,,CREATED,,TRUE,4281,"The New Constitution",4334,"Anarkali Bazaar"
+4328,"Dino's Shop",,,CREATED,,FALSE,4281,"The New Constitution",4334,"Anarkali Bazaar"
+4329,Peshawar,,,CREATED,,FALSE,4281,"The New Constitution",4330,Peshawar
+4331,"Government College",,,CREATED,,FALSE,4281,"The New Constitution",4336,"Government College University Lahore (GCUL)"
+4332,Mozang,,,CREATED,,,4281,"The New Constitution",4333,"Mozang Chungi"
+4338,"Choudhry Khuda Bux",,,MAYBE,131,FALSE,4281,"The New Constitution",,
+4339,"The stable",,,MAYBE,131,FALSE,4281,"The New Constitution",,
+4340,"Mangu's bedroom",,,FALSE,,FALSE,4281,"The New Constitution",,
+4341,"Auto showroom",,,MAYBE,133,TRUE,4281,"The New Constitution",,
+4342,Cantonment,,,CREATED,,FALSE,4281,"The New Constitution",4343,"Lahore Cantonment"
+4344,"Hira Mandi",,,CREATED,,TRUE,4281,"The New Constitution",4345,"Shahi Mohallah"
+4346,"Police station",,,MAYBE,135,FALSE,4281,"The New Constitution",,
+4351,Ludhiana,,,TRUE,,,3281,"Jathedar Mukand Singh",,
+4356,"Narhali Village",Sikh,Definitional,TRUE,,,3281,"Jathedar Mukand Singh",,
+4360,"Theekri Majra",Muslim,Nominal,TRUE,,,3281,"Jathedar Mukand Singh",,
+4371,India,,,TRUE,,,4368,"A Girl from Delhi",2993,India
+4373,"Delhi's red light quarter",Muslim,,FALSE,,,4368,"A Girl from Delhi",,
+4374,Delhi,,,TRUE,,,4368,"A Girl from Delhi",3108,Delhi
+4375,Pakistan,Muslim,,TRUE,94,,4368,"A Girl from Delhi",,
+4376,"Nasim Akhtar's kotha",Muslim,,FALSE,,,4368,"A Girl from Delhi",,
+4377,Anandgarh,,,MAYBE,,,4364,"From Khanni to Bhikhi",,
+4378,"Street around the corner from the kotha",,,FALSE,,,4368,"A Girl from Delhi",,
+4395,"Mughal Chak",Sikh,,TRUE,,,4381,Sikhism,4386,"Mughal Chak"
+4396,Mannawala,Sikh,,TRUE,,TRUE,4381,Sikhism,4387,Mannawala
+4397,"Gujranwala Refugee Camp",Unknown,,MAYBE,,,4381,Sikhism,4388,"Gujranwala Refugee Camp"
+4398,"Qazi da Kot",Muslim,,TRUE,,,4381,Sikhism,4389,"Qazi da Kot"
+4399,"Dera Baba Nanak",Unknown,,TRUE,,,4381,Sikhism,4390,"Dera Baba Nanak"
+4400,"Rawalpindi division",Sikh|Hindu,,TRUE,,,4381,Sikhism,4391,"Rawalpindi Division"
+4401,"Guru Nanak Khalsa College, Gujranwala",Sikh,,MAYBE,,TRUE,4381,Sikhism,4392,"Guru Nanak Khalsa College, Gujranwala"
+4402,Gharjhakh,Sikh,,TRUE,,,4381,Sikhism,4393,Gharjhakh
+4453,"Big residential house",,,FALSE,,,4443,Cooperation,,
+4454,Room,,,FALSE,,,4443,Cooperation,,
+4474,"The street",,,FALSE,,,4469,Division,,
+4475,"Safe spot",,,FALSE,,,4469,Division,,
+4498,Amethi,,,TRUE,,,4042,"Ek Onkar Satnam - 1935",4499,Amethi
+4505,"Baqir's house",,,FALSE,,,4042,"Ek Onkar Satnam - 1935",,
+4515,"Roorkee canal",,,TRUE,,,4042,"Ek Onkar Satnam - 1935",4516,"Roorkee Canal"
+4523,"Refugee caravan",,,FALSE,,,4042,"Ek Onkar Satnam - 1935",,
+4539,Bombay,,,TRUE,,,4204,"Jinnah Sahib",,
+4549,Lahore,Muslim,Definitional,TRUE,,,4204,"Jinnah Sahib",,
+4553,Delhi,,,TRUE,,,4204,"Jinnah Sahib",,
+4570,"Mount Pleasant Road, Malabar Hill.",,,TRUE,,,4204,"Jinnah Sahib",,
+4577,Village,Muslim,Speculation,MAYBE,,,4525,"The Great Divide",3448,Punjab
+4578,"Karim's field",,,MAYBE,,,4525,"The Great Divide",3448,Punjab
+4579,"Karim's house",,,MAYBE,,,4525,"The Great Divide",3448,Punjab
+4580,"Village common",,,MAYBE,,,4525,"The Great Divide",3448,Punjab
+4582,Mosque,Muslim,Definitional,MAYBE,,,4525,"The Great Divide",3448,Punjab
+4593,Purqazi,Unknown,,TRUE,131,,4042,"Ek Onkar Satnam - 1935",4594,Purqazi
+4597,"Government Hospital",Unknown,,FALSE,,,4042,"Ek Onkar Satnam - 1935",,
+4602,"Sayyid Mehmood Ghazi’s dargah",Muslim,Definitional,FALSE,,,4042,"Ek Onkar Satnam - 1935",,
+4636,Punjab,Muslim,,TRUE,93,,4204,"Jinnah Sahib",4637,"Punjab in Pakistan"
+4639,Pakistan,Muslim,,TRUE,,,4204,"Jinnah Sahib",4640,Pakistan
+4651,Mootri,Unknown,,CREATED,78,TRUE,4644,"Three Simple Statements",4648,Mootri
+4654,"British India",,,CREATED,78,TRUE,4644,"Three Simple Statements",2993,India
+4662,Unknown,Unknown,,MAYBE,,,4142,Wages,,
+4677,"Walton refugee camp",Muslim,Nominal,MAYBE,,TRUE,4368,"A Girl from Delhi",,
+4678,"Hira Mandi",Muslim,,FALSE,,,4368,"A Girl from Delhi",,
+4684,"Khanni Village",,,MAYBE,,,4364,"From Khanni to Bhikhi",,
+4690,"Miyan Chak",,,MAYBE,,,4364,"From Khanni to Bhikhi",,
+4691,Bhikhi,,,MAYBE,,,4364,"From Khanni to Bhikhi",,
+4801,Chanakyapuri,Unknown,,CREATED,,,4746,"Of One Community",4789,Chanakyapuri
+4814,"Gurdwara Bangla Sahib",Sikh,Self-identified,CREATED,,FALSE,4807,"The Parade",4815,"Gurdwara Bangla Sahib"
+4831,Rawalpindi,Sikh,Speculation,CREATED,,TRUE,4807,"The Parade",33,Rawalpindi
+4833,"Cornwallis Road",,,CREATED,,TRUE,4746,"Of One Community",4790,"Cornwallis Road"
+4836,"Takhat Pari",Unknown,,CREATED,,TRUE,4746,"Of One Community",4791,"Takht Parhi"
+4837,Basali,,,CREATED,,TRUE,4746,"Of One Community",4792,Basali
+4846,Rawalpindi,Sikh,Other-identified,TRUE,,TRUE,3251,"Basant The Fool",33,Rawalpindi
+4847,"Thoa Khalsa",,,CREATED,,TRUE,4746,"Of One Community",4793,"Thoa Khalsa"
+4848,Moradabad,,,CREATED,,TRUE,4746,"Of One Community",4795,Moradabad
+4849,Delhi,Unaffiliated,,TRUE,,TRUE,3251,"Basant The Fool",3108,Delhi
+4888,"Tarlahi village",Sikh|Hindu,"Other-identified.Narrator other-attributed",CREATED,,FALSE,4882,"A Woman's Integrity",4891,"Tarlahi village"
+4905,Patiala,Sikh,Speculation,CREATED,,TRUE,4882,"A Woman's Integrity",3542,Patiala
+4907,"Wazirabad Station",Unknown,,CREATED,,TRUE,4882,"A Woman's Integrity",4908,"Wazirabad Station"
+4947,Paharganj,Sikh,Speculation,CREATED,,,4807,"The Parade",4948,Paharganj
+4949,Abbottabad,Unknown,,CREATED,,TRUE,4807,"The Parade",4950,Abbottabad
+4952,Sheikhupura,,,CREATED,,TRUE,4807,"The Parade",4953,Sheikhupura
+4958,"Multani Dhanda",Unknown,,CREATED,,TRUE,4807,"The Parade",4959,"Multani Dhanda"
+4960,"Chuna Mandi",,,CREATED,,TRUE,4807,"The Parade",4961,"Chuna Mandi"
+4966,"Punjabi Lane",Hindu|Sikh,Speculation,CREATED,,,4807,"The Parade",4967,"Punjabi Lane"
+4976,"Tees Hazari refugee camp",Muslim,,CREATED,,,4807,"The Parade",4977,"Tees Hazari -Refugee Camp"
+4993,"House - Sharifan's House",Muslim,"Other-identified.Character other-attributed",FALSE,,,4988,"Bitter Harvest",,
+4994,"Small House - Bimla's House",Hindu,"Other-identified.Character other-attributed",FALSE,,,4988,"Bitter Harvest",,
+5023,Unknown,,,FALSE,,,4990,"The Benefits of Ignorance",,
+5024,Unknown,,,FALSE,,,4989,"A Believer’s Version",,
+5065,"Khalil's house",,,FALSE,,TRUE,5046,Crusader,,
+5071,"Shah's House",,,FALSE,,,5046,Crusader,,
+5074,"Choudhry Khuda Bakhsh Varaich's House",,,FALSE,,,5046,Crusader,,
+5077,"Gondlanwala village",,,TRUE,,TRUE,5046,Crusader,4875,"Gondlanwala village."
+5083,"Rama Shah's verandah",,,FALSE,,,5046,Crusader,,
+5089,"kamoki camp",Unknown,,MAYBE,,FALSE,5046,Crusader,4877,"Kamoki Refugee Camp"
+5141,Amritsar,Sikh,,CREATED,,,3170,"A New Taj Mahal",3543,Amritsar
+5142,"Amritsar-Lahore Express",,,CREATED,,TRUE,3170,"A New Taj Mahal",5144,"Amritsar-Lahore Express"
+5149,Wagah,,,CREATED,,,3170,"A New Taj Mahal",3617,"Wagah Border"
+5167,Lahore,,,CREATED,,,3170,"A New Taj Mahal",1348,Lahore
+5170,"Farid Chowk",Unknown,,TRUE,,TRUE,3384,"The Dutiful Daughter",4987,"Farid Chowk -Amritsar"
+5172,Rawalpindi,,,CREATED,,,3170,"A New Taj Mahal",33,Rawalpindi
+5251,"Roof of the kotha",,,FALSE,,,4368,"A Girl from Delhi",,
+5258,"Local laundry roof",,,FALSE,,,4368,"A Girl from Delhi",,
+5263,"Army truck",Muslim,,FALSE,,,4368,"A Girl from Delhi",,
+5266,"Train to Lahore",Muslim,Definitional,TRUE,,,4368,"A Girl from Delhi",,
+5270,"Inexpensive hotel",,,FALSE,,,4368,"A Girl from Delhi",,
+5279,"Nasim's house",Muslim,,FALSE,,,4368,"A Girl from Delhi",,
+5285,Courtyard,,,FALSE,,,4368,"A Girl from Delhi",,
+5296,Lahore,Muslim,Definitional,TRUE,,,4368,"A Girl from Delhi",,
+5302,"Achhan Khan's kotha",Muslim,,FALSE,,,4368,"A Girl from Delhi",,
+5310,"Public Urinal",,,CREATED,,,4989,"A Believer’s Version",,
+5312,"Flat 16",,,FALSE,,,4989,"A Believer’s Version",,
+5314,Bazaar,,,MAYBE,,,4989,"A Believer’s Version",,
+5381,Malerkotla,Muslim,,TRUE,,,5357,Azaan,3846,Malerkotla
+5384,Barnala,,,TRUE,,,5357,Azaan,,
+5385,Batala,,,TRUE,,,5357,Azaan,,
+5386,Ambala,,,TRUE,,,5357,Azaan,,
+5387,"Mandi Bahauddin",,,TRUE,,,5357,Azaan,36,"Mandi Bahauddin"
+5388,Chandigarh,,,TRUE,,,5357,Azaan,,
+5389,Sialkot,,,TRUE,,,5357,Azaan,,
+5390,Islamabad,,,TRUE,,,5357,Azaan,,
+5391,"Gawalmindi neighbourhood, Rawalpindi",,,TRUE,,,5357,Azaan,,
+5478,Amritsar,,,TRUE,,,3231,"The Return",3543,Amritsar
+5479,"Mughalpura, Lahore",Muslim,Definitional,TRUE,,,3231,"The Return",3363,"Mughalpura, Lahore"
+5480,Punjab,,,TRUE,,,4525,"The Great Divide",3448,Punjab
+5481,India,Hindu,Definitional,TRUE,,TRUE,4525,"The Great Divide",2993,India
+5482,Pakistan,Muslim,Definitional,TRUE,,TRUE,4525,"The Great Divide",4640,Pakistan
+5497,"Abdul's Residence",,,CREATED,,,4989,"A Believer’s Version",,
+5515,Delhi,,,CREATED,,,5304,"The Minor Gandhis",3108,Delhi
+5516,Meerut,Muslim,"Other-identified.Character other-attributed",CREATED,,,5304,"The Minor Gandhis",5517,Meerut
+5519,Pakistan,Muslim,,CREATED,,,5304,"The Minor Gandhis",4640,Pakistan
+5521,"Irwin Hospital",,,CREATED,,,5304,"The Minor Gandhis",5522,"Irwin Hospital, Delhi"
+5530,"Tees Hazari Camp",Muslim,"Other-identified.Narrator other-attributed",CREATED,,,5304,"The Minor Gandhis",5531,"Tees Hazari Camop"
+5535,"Kucha Ram Lakhan",Hindu,Other-identified,CREATED,,,5304,"The Minor Gandhis",5537,"Kucha Ram Lakhan"
+5547,"The city",,,MAYBE,,,4989,"A Believer’s Version",,
+5549,Mosque,Muslim,,MAYBE,,,4989,"A Believer’s Version",,
+5568,"Back Street",,,CREATED,,,4989,"A Believer’s Version",,
+5570,Street,,,CREATED,,,4989,"A Believer’s Version",,
+5614,"Ranbir Singh Pura tehsil",Sikh,Nominal,TRUE,,TRUE,5584,"The Border",5600,"Ranbir Singh Pura tehsil"
+5618,Suchetgarh,Unknown,Speculation,TRUE,,TRUE,5584,"The Border",5604,Suchetgarh
+5619,Jammu,Muslim,Speculation,TRUE,,TRUE,5584,"The Border",5601,Jammu
+5620,Sialkot,Muslim,Speculation,TRUE,,TRUE,5584,"The Border",5602,Sialkot
+5621,Narowal,Muslim,Speculation,TRUE,,TRUE,5584,"The Border",5603,Narowal
+5622,"Babey di Ber gurdwara",Sikh,Definitional,TRUE,,TRUE,5584,"The Border",5605,"Babey di Ber gurdwara"
+5623,Phulra,Sikh,Speculation,TRUE,,TRUE,5584,"The Border",5606,Phulra
+5624,Khasiri,Muslim,Speculation,TRUE,,TRUE,5584,"The Border",5607,Khasiri
+5625,Khanachak,Muslim,Speculation,TRUE,,TRUE,5584,"The Border",5609,Khanachak
+5626,Ludhiana,Sikh,Speculation,TRUE,,TRUE,5584,"The Border",5610,Ludhiana
+5627,Patiala,Sikh,Speculation,TRUE,,TRUE,5584,"The Border",5611,Patiala
+5628,Delhi,Hindu,Speculation,TRUE,,TRUE,5584,"The Border",5612,Delhi
+5656,"Laddewala Varaich",,,TRUE,,,3177,"A Village called Laddewala Varaich",5657,"Laddewala Varaich"
+5660,Gondlanwala,,,TRUE,,,3177,"A Village called Laddewala Varaich",,
