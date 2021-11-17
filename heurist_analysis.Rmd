@@ -81,7 +81,7 @@ authors <-
 ```{r create_full_table}
 full_table <- all_events %>%
   left_join(characters) %>% 
-  left_join(places, by = c("location_of_event_(text_place)_id"="Text place H-ID")) %>%  
+  left_join(places, by = c("location_of_event_(text_place)_id"="Text place H-ID")) %>% 
   left_join(locations, by =c("Location pointer H-ID"="Location H-ID"  )) %>% 
   left_join(texts, by = c("text_pointer_id" = "Text H-ID")) %>% 
   left_join(authors, by = "Author H-ID", suffix = c("", "_author"))  
