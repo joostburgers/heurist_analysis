@@ -147,8 +147,23 @@ write_csv(partition_narratives,"partition_database.csv")
 partition_geotagged <- partition_narratives %>% 
                         drop_na(wkt)
 
-write_csv(partition_narratives, "partition_geotagged.csv")
+write_csv(partition_geotagged, "partition_geotagged.csv")
 ```
+
+```{r}
+partition_chronological <- partition_geotagged %>% 
+                           distinct(event_id, .keep_all = TRUE) %>% 
+                           mutate(event_order = start_page_event+(page_event_number/10)) %>%                           group_by(text_title) %>%   
+                          arrange(text_title,event_order) %>% 
+                          mutate(chrono = row_number()) %>% 
+                          ungroup() %>% 
+                          mutate(sequence_chrono = row_number()) %>% 
+                          select(event_id, chrono, sequence_chrono)  
+
+write_csv(partition_chronological, "partition_chrono.csv")
+
+```
+
 
 
 
